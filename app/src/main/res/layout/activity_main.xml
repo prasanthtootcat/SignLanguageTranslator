@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context="tootcat.signlanguagetranslator.MainActivity">
+
+    <EditText
+        android:id="@+id/inputBox"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="#ffffff"
+        android:ems="10"
+        android:fontFamily="cursive"
+        android:inputType="text"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textColorLink="#ffffff"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.060000002" />
+
+    <Button
+        android:id="@+id/translateButton"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:background="#fd5f00"
+        android:elevation="7dp"
+        android:fontFamily="casual"
+        android:text="Translate >>>"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.46"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.13" />
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:fontFamily="casual"
+        android:text="Enter the word to translate..."
+        android:textAlignment="textStart"
+        android:textColor="#ffffff"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout"
+        android:layout_width="0dp"
+        android:layout_height="294dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/about_us"
+        app:layout_constraintDimensionRatio="h,1:1"
+        app:layout_constraintHorizontal_bias="0.42"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/translateButton"
+        app:layout_constraintVertical_bias="1.0">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/imageView1"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/imageView2"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignParentTop="true"
+            android:layout_toEndOf="@+id/imageView3"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/imageView1"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_below="@+id/imageView4"
+            android:layout_toEndOf="@+id/imageView9"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignEnd="@+id/imageView3"
+            android:layout_below="@+id/imageView3"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_below="@+id/imageView3"
+            android:layout_toEndOf="@+id/imageView7"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/imageView5"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_below="@+id/imageView6"
+            android:layout_toEndOf="@+id/imageView9"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView11"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignBottom="@+id/imageView10"
+            android:layout_toEndOf="@+id/imageView10"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView12"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_below="@+id/imageView7"
+            android:layout_toEndOf="@+id/imageView7"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView13"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/imageView9"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView14"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_below="@+id/imageView9"
+            android:layout_toEndOf="@+id/imageView9"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_below="@+id/imageView10"
+            android:layout_toEndOf="@+id/imageView14"
+            app:srcCompat="@drawable/blank" />
+
+        <ImageView
+            android:id="@+id/imageView16"
+            android:layout_width="72dp"
+            android:layout_height="72dp"
+            android:layout_below="@+id/imageView12"
+            android:layout_toEndOf="@+id/imageView15"
+            app:srcCompat="@drawable/blank" />
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/about_us"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="416dp"
+        android:background="#000000"
+        android:elevation="7dp"
+        android:fontFamily="casual"
+        android:text="About Us"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.84000003" />
+
+</android.support.constraint.ConstraintLayout>

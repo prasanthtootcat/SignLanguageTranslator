@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_aad5995750f1a02867c737850aa521c5b192b382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_8399b6a2a21f8a9e53cc20070eefe6b63665a8d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_f0f0ea525ec715111eb5544d3b5c230d0f104aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e01eb545dbfa4a2a3816c4536f44774d9af683d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_541f30add8d76085d85cfc4b59afff7a857e44ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d79487e5c659820e32b89596577c5b3e510355f6">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_8ebf7addb3c416ae224e1337759df19dc532d2d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_9239e96e238d2371aafc5ade3d780fc7cb80c8c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_d42593516475b84caefd5180d505b9faf4726afa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.0-beta4_68c29bae50e80a01640a804cf1285b2f9fe4f7e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_5916135f5c378350571cf188900934e684c1752f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_ede2fd042ad00183a431297e301e3e7c1736ca57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_a5d146c9c037b09c66c177a812575d9b2e35210d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-beta4_a9a2b4f1938a4bc7614d8e0b7efdbcad46feef1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="acc973049fb2390f728d43634c336870ba94804d">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/instant-run_14630eb7b6168e28aa83faa64674632fe05cdd18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_17394a34c4c99b53ddf5bf945f2c8cb0c9a8e3d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_5171a80310f6b7e0e77bff933f9544f9728a1bae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_00e65fd3e821388c8fb0ab00b8eba64ed8987725.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_34358062f5dd7b4b18dc693d70e731a14a778445.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/preshu/AndroidStudioProjects/SignLanguageTranslator/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_4d6fe1441a9b084743d4ad785094faa86078293e.jar" />
+    </item>
+
+</items>
